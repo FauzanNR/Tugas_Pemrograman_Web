@@ -1,9 +1,9 @@
-<?php
+<!-- <?php
     $var = ["udin", "sukir", "toni"];
     foreach($var as $b => $a){
         echo $a;
     }
-?>
+?> -->
 <!DOCTYPE html>
 <html lang="en">
 
